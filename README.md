@@ -6,8 +6,17 @@
 - Winner of 2022 Norderus QA Code Challenge
 
 ---
+##### Languages that I am fluent at
+- Serbian
+- English
 
-##### Languages that I know how to use
+##### Languages that I am learning right now
+- Russian
+
+##### Languages that I've used to learn 
+- German
+
+##### Programming Languages that I know how to use
 
 ![C](https://img.shields.io/badge/-C-222222?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B)
