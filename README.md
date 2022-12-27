@@ -27,7 +27,7 @@
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=mysql)
 
-#### Languages that I'm trying to learn outside of academic activities
+#### Programming Languages that I'm trying to learn outside of academic activities
 
 ![Rust](https://img.shields.io/badge/-Rust-222222?style=flat&logo=Rust)
 
