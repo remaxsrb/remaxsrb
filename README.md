@@ -37,6 +37,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat-square&logo=docker)
+![Redis](https://img.shields.io/badge/-Redis-222222?style=flat-square&logo=Redis)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-222222?style=flat-square&logo=CodeIgniter)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-222222?style=flat-square&logo=phpMyAdmin)
 ![Selenium](https://img.shields.io/badge/-Selenium-222222?style=flat-square&logo=Selenium)
