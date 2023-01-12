@@ -3,7 +3,7 @@
 
 ## Student of Software engineering at School of Electrical Engineering at University of Belgrade
 
-- Winner of 2022 Norderus QA Code Challenge
+- Winner of 2022 Nordeus QA Code Challenge
 
 ---
 ##### Languages that I am fluent at
