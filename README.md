@@ -10,11 +10,9 @@
 - Serbian
 - English
 
-##### Languages that I am learning right now
-- Russian
 
-##### Languages that I've used to learn 
-- German
+
+
 
 ##### Programming Languages that I know how to use
 
