@@ -9,9 +9,9 @@
 ##### Languages that I am fluent at
 - Serbian
 - English
-
-
-
+##### Languages that I am (or used to learn) and know some basics:
+- Russian
+- German
 
 
 ##### Programming Languages that I know how to use
@@ -41,16 +41,6 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-222222?style=flat-square&logo=Selenium)
 ![Mockito](https://img.shields.io/badge/-Mockito-222222?style=flat-square&logo=Mockito)
 
-##### IDEs which I've used so far for my various academic and non-academic work
-
-![CLion](https://img.shields.io/badge/-CLion-222222?style=flat-square&logo=CLion)
-![PyCharm](https://img.shields.io/badge/-PyCharm-222222?style=flat-square&logo=PyCharm)
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-222222?style=flat-square&logo=PhpStorm)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-222222?style=flat-square&logo=IntelliJ%20IDEA)
-![Apache NetBeans IDE](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-222222?style=flat-square&logo=Apache%20NetBeans%20IDE)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat-square&logo=Visual%20Studio%20Code)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-222222?style=flat-square&logo=Visual%20Studio)
-
 ##### Free and open source software which I use on a daily basis and would recommend it to you
 
 ![Bitwarden](https://img.shields.io/badge/-Bitwarden-222222?style=flat-square&logo=Bitwarden)
@@ -58,9 +48,8 @@
 
 <br/>
 
-
 ---
 
 Credit for template: [Danushka2](https://github.com/Danushka2)
 
-Last edited on: 27/12/2022
+Last edited on: 17.1.2023
